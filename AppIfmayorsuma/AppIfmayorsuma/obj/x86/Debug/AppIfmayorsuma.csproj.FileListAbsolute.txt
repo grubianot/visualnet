@@ -1,4 +1,0 @@
-C:\Users\LAB104BPC23\Documents\Projects\AppIfmayorsuma\AppIfmayorsuma\bin\Debug\AppIfmayorsuma.exe
-C:\Users\LAB104BPC23\Documents\Projects\AppIfmayorsuma\AppIfmayorsuma\bin\Debug\AppIfmayorsuma.pdb
-C:\Users\LAB104BPC23\Documents\Projects\AppIfmayorsuma\AppIfmayorsuma\obj\x86\Debug\AppIfmayorsuma.exe
-C:\Users\LAB104BPC23\Documents\Projects\AppIfmayorsuma\AppIfmayorsuma\obj\x86\Debug\AppIfmayorsuma.pdb

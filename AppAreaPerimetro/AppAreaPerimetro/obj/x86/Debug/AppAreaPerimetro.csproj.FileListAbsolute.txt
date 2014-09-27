@@ -1,4 +1,0 @@
-C:\Users\LAB104BPC23\Documents\Projects\AppAreaPerimetro\AppAreaPerimetro\bin\Debug\AppAreaPerimetro.exe
-C:\Users\LAB104BPC23\Documents\Projects\AppAreaPerimetro\AppAreaPerimetro\bin\Debug\AppAreaPerimetro.pdb
-C:\Users\LAB104BPC23\Documents\Projects\AppAreaPerimetro\AppAreaPerimetro\obj\x86\Debug\AppAreaPerimetro.exe
-C:\Users\LAB104BPC23\Documents\Projects\AppAreaPerimetro\AppAreaPerimetro\obj\x86\Debug\AppAreaPerimetro.pdb

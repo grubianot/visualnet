@@ -1,5 +1,0 @@
-C:\Users\LAB104BPC23\Documents\Projects\AppSuma\AppSuma\bin\Debug\AppSuma.exe
-C:\Users\LAB104BPC23\Documents\Projects\AppSuma\AppSuma\bin\Debug\AppSuma.pdb
-C:\Users\LAB104BPC23\Documents\Projects\AppSuma\AppSuma\obj\x86\Debug\AppSuma.csprojResolveAssemblyReference.cache
-C:\Users\LAB104BPC23\Documents\Projects\AppSuma\AppSuma\obj\x86\Debug\AppSuma.exe
-C:\Users\LAB104BPC23\Documents\Projects\AppSuma\AppSuma\obj\x86\Debug\AppSuma.pdb
